@@ -1,9 +1,4 @@
-// http://hidaacademy.com/data.json
-// http://hidaacademy.com/data
-       "id":"01",
-       "tit":"Phim Hành Động",
-       "tit_khongdau":"phimhanhdong",
-       "listVideos":[
+
            {
                "idVideo":"0wWdFS-e49A",
                "ten":"Thuỷ Thần",
@@ -119,5 +114,5 @@
                "linkHinh":"https://4.bp.blogspot.com/_NcOpDpOiGi8/TbJrSnq3xXI/AAAAAAAAAY0/bdOXFqcIoY8/bw1_23.jpg"
            }
        ]
-   } 
+   }
 ]
